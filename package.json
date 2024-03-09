@@ -1,0 +1,27 @@
+{
+  "name": "react-minus",
+  "version": "1.0.0",
+  "description": "Add opposite negative randomly chosen by 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "react-minus": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerstlerFrancke/react-minus.git"
+  },
+  "homepage": "https://twitter.com/LisaSarah388767",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "BerstlerFrancke",
+  "license": "MIT"
+}
